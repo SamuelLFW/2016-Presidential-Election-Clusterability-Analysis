@@ -1,4 +1,4 @@
-#2016 U.S. Presidential Election Clusterability Analysis
+# 2016 U.S. Presidential Election Clusterability Analysis
 
 Voting in the U.S. always bring nation-wide attention, even world-wide. I remembered in 2016 when I was about to came to the U.S. for high school, I watched 2016 presidential debate, Trump vs. Clinton with my friend and it was indeed very interesting. The two political parties in the U.S.: Democrat and Republican have really distinct ideologies that are performed in many way. Tax, for example, Democrat party claim to minimum wages and progressive taxation, while republican party believe tax shouldn’t be increased for anyone. I remembered when I took high school in Broward county in Florida, the food in the restaurant was taxed at a rate of 7%. However, now in the Champaign, Illinois, the food tax rise to 11%. I think this might be result from different political preference about taxation of the two counties.
 
